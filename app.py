@@ -39,7 +39,7 @@ input_data = pd.DataFrame({
     'weather_description': [weather],
     'Delivery_person_Age': [age],
     'Delivery_person_Ratings': [ratings],
-    'Temperature (0c) ': [temperature],
+    'Temperature (0c)': [temperature],
     'Humidity': [humidity],
     'Distance (km)': [distance]
 })
